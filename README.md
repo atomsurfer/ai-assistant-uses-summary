@@ -1,6 +1,6 @@
 # Useful real-world AI assistant uses
 
-A digest of replies to [Tim Ferriss](https://x.com/tferriss/status/2124313547773771817) asking, on November 21, 2026: “What's the most useful thing you've done with AI assistants/agents so far, even if mundane?” His own example was a 48-hour audit that found and cancelled old subscriptions across multiple cards, out-of-date excess insurance policies, and outdated employee services — about $10,000 a year in savings. The thread that followed is less about flashy demos than about audits, claims, paperwork, kids’ homework, meal planning, and other chores people actually finished. This draft summarizes those public replies; nothing has been published to GitHub yet.
+A digest of replies to [Tim Ferriss](https://x.com/tferriss/status/2124313547773771817) asking, on November 21, 2026: “What's the most useful thing you've done with AI assistants/agents so far, even if mundane?” His own example was a 48-hour audit that found and cancelled old subscriptions across multiple cards, out-of-date excess insurance policies, and outdated employee services — about $10,000 a year in savings. The thread that followed is less about flashy demos than about audits, claims, paperwork, kids’ homework, meal planning, and other chores people actually finished.
 
 ## Finding money: subscriptions, insurance, taxes, and refunds
 
